@@ -82,13 +82,13 @@ const sanil = {
 
 ## 🔥 Latest Open Source Project
 
-<div align="center">
-  
-  <a href="https://github.com/DPSN-org/deepsense">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DPSN-org&repo=deepsense&theme=radical&hide_border=true" />
-  </a>
-  
-</div>
+### [Deepsense](https://github.com/DPSN-org/deepsense)
+
+**An intelligent AI-Agentic orchestration framework that transforms natural language queries into powerful analytical and actionable insights **
+
+Deepsense enables seamless interaction with your data through human-readable queries, automatically connecting to configured external data sources and delivering actionable insights. Built for modern data-driven applications, it bridges the gap between complex data infrastructure and intuitive user experience.
+
+
 
 ---
 

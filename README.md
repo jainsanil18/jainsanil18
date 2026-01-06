@@ -85,7 +85,7 @@ const sanil = {
 <div align="center">
   
   <a href="https://github.com/jainsanil18/deepsense">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jainsanil18&repo=deepsense&theme=radical&hide_border=true&show_owner=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DPSN-org&repo=deepsense&theme=radical&hide_border=true&show_owner=true" />
   </a>
   
 </div>
